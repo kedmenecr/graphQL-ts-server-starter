@@ -22,7 +22,7 @@
         "graphql-request": "^1.8.2",
         "graphql-yoga": "^1.15.1",
         "pg": "^7.4.3",
-        "reflect-metadata": "^0.1.12",
+        "reflect-metadata": "^0.1.13",
         "typeorm": "0.2.7",
         "uuid": "^3.3.2"
     },
